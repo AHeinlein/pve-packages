@@ -1,0 +1,28 @@
+Origin: https://github.com/AHeinlein/pve-packages
+Label: AHeinlein Proxmox VE packages
+Codename: bullseye
+Date: Mon, 13 Sep 2021 11:39:45 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository of packages for Proxmox VE
+MD5Sum:
+ 542d9b1bc829b930a0c462f88051e586 653 main/binary-amd64/Packages
+ 64a06564ca51d4e60d2eeb5e0b42b68b 413 main/binary-amd64/Packages.gz
+ c9502c2ca5642507e559beee1b5143fe 183 main/binary-amd64/Release
+ 076a16e812822f5c6f99d7ab15b1bec9 865 main/source/Sources
+ 6c0ab70186a04c9dea3e4e0e1aafa31b 470 main/source/Sources.gz
+ e0d62702220192937e4ee9c6bb1e149f 184 main/source/Release
+SHA1:
+ 4174ffcf40c8616db2030eacee9bbfab2a7b4e37 653 main/binary-amd64/Packages
+ 9067440ead165942aa838cf03e5b93e866b13b8e 413 main/binary-amd64/Packages.gz
+ 7b238ba3c33e89bedba80d0e03d02d1c32c629e4 183 main/binary-amd64/Release
+ 8c8f3d4e5cb35c3705b6bc898affd7051b8913e1 865 main/source/Sources
+ 12aa72bc94d5494820f984762d09d8241a5d57d8 470 main/source/Sources.gz
+ 5540f9f5c1c63a123b519217482310a43ba3f1ec 184 main/source/Release
+SHA256:
+ 05e2c896ea43c9e3a9548eb2dadd30c71a34339516722a2342c112fd4723bc60 653 main/binary-amd64/Packages
+ a15ee8a070a3222d00a8da1400821393b213aedbc7c10c839319df6c155021ea 413 main/binary-amd64/Packages.gz
+ ccacaf96b4b3b036d1a25ac540842a383723e9b3feb8185b2db5d42c546429df 183 main/binary-amd64/Release
+ 0053e31245eee86856a9989d0ebfe57e8b92d9830957c8fb8112528d9a079eee 865 main/source/Sources
+ 14f1920fa1c9c5350daac4cd6f8b84514453469c5200b1e946d53e0613ddc649 470 main/source/Sources.gz
+ ec7250f5716c717bcb3f5146a1e9b73de87384ccdd35255d9f2d899c5af4e600 184 main/source/Release

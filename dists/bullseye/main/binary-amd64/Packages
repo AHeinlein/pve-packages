@@ -1,0 +1,18 @@
+Package: pve7-usb-automount
+Version: 0.6-1
+Architecture: all
+Maintainer: Andreas Heinlein <aheinlein@gmx.com>
+Installed-Size: 24
+Depends: python3-pyinotify, python3-pyside2.qtcore, python3-pyudev
+Conflicts: pve5-usb-automount, pve6-usb-automount
+Replaces: pve5-usb-automount, pve6-usb-automount
+Provides: pve7-usb-automount
+Priority: optional
+Section: utils
+Filename: pool/main/p/pve7-usb-automount/pve7-usb-automount_0.6-1_all.deb
+Size: 4400
+SHA256: 90b9e122c5d20b4a0d15d2efe82745156c2fdb4a67c253a31aded69b3c88e4d3
+SHA1: 039bd4acad98b8ac94aa9415cd175674152d82a9
+MD5sum: 52c72ca278ba641126405c4cbb1aafe5
+Description: Adds USB-Automount feature to PVE7
+
